@@ -1,0 +1,14 @@
+
+# Visual studio
+*.vs
+*.csproj.user
+TestAutomapper/packages
+
+
+# Bin, obj
+TestAutomapper/TestAutomapper/bin/
+TestAutomapper/TestAutomapper/obj/
+
+
+# Temporary files
+*~
